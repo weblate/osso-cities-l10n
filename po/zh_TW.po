@@ -1,0 +1,1212 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2010-11-30 11:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (US)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "qtn_clk_city_ab_saint_johns"
+msgstr "聖約翰 (Saint John's)"
+
+msgid "qtn_clk_city_abu_dhabi"
+msgstr "阿布達比 (Abu Dhabi)"
+
+msgid "qtn_clk_city_afga_kabul"
+msgstr "喀布爾 (Kabul)"
+
+msgid "qtn_clk_city_albania_tirane"
+msgstr "地拉那 (Tirana)"
+
+msgid "qtn_clk_city_algeria_algiers"
+msgstr "阿爾及爾 (Algiers)"
+
+msgid "qtn_clk_city_andorra_la_vella"
+msgstr "安道爾 (Andorra La Vella)"
+
+msgid "qtn_clk_city_angola_luanda"
+msgstr "羅安達 (Luanda)"
+
+msgid "qtn_clk_city_anguilla_anguilla"
+msgstr "峽谷市 (The Valley)"
+
+msgid "qtn_clk_city_argen_buenos"
+msgstr "布宜諾斯艾利斯(Buenos Aires)"
+
+msgid "qtn_clk_city_armenia_yerevan"
+msgstr "埃里溫 (Yerevan)"
+
+msgid "qtn_clk_city_aruba_oranjestad"
+msgstr "奧臘涅斯塔德 (Oranjestad)"
+
+msgid "qtn_clk_city_aus_adelaide"
+msgstr "阿德萊德 (Adelaide)"
+
+msgid "qtn_clk_city_aus_brisbane"
+msgstr "布里斯班 (Brisbane)"
+
+msgid "qtn_clk_city_aus_canberra"
+msgstr "坎培拉 (Canberra)"
+
+msgid "qtn_clk_city_aus_darwin"
+msgstr "達爾文 (Darwin)"
+
+msgid "qtn_clk_city_aus_eucla"
+msgstr "熱拿 (Eucla)"
+
+msgid "qtn_clk_city_aus_hobart"
+msgstr "霍巴特 (Hobart)"
+
+msgid "qtn_clk_city_aus_lord_howe_island"
+msgstr "豪勛爵島 (Lord Howe Island)"
+
+msgid "qtn_clk_city_aus_melbourne"
+msgstr "墨爾本 (Melbourne)"
+
+msgid "qtn_clk_city_aus_perth"
+msgstr "伯斯 (Perth)"
+
+msgid "qtn_clk_city_aus_sydney"
+msgstr "雪梨 (Sydney)"
+
+msgid "qtn_clk_city_austria_vienna"
+msgstr "維也納 (Vienna)"
+
+msgid "qtn_clk_city_azerb_baku"
+msgstr "巴庫 (Baku)"
+
+msgid "qtn_clk_city_azores_ponta_delgada"
+msgstr "邦達多加達 (Ponta Delgada)"
+
+msgid "qtn_clk_city_baham_nassau"
+msgstr "拿索 (Nassau)"
+
+msgid "qtn_clk_city_bahrain_al_manamah"
+msgstr "麥納瑪 (Manama)"
+
+msgid "qtn_clk_city_bangla_dhaka"
+msgstr "達卡 (Dhaka)"
+
+msgid "qtn_clk_city_barbados_bridgetown"
+msgstr "布列治敦 (Bridgetown)"
+
+msgid "qtn_clk_city_belarus_minsk"
+msgstr "明斯克 (Minsk)"
+
+msgid "qtn_clk_city_belg_brussels"
+msgstr "布魯塞爾 (Brussels)"
+
+msgid "qtn_clk_city_belize_belmopan"
+msgstr "貝爾墨邦 (Belmopan)"
+
+msgid "qtn_clk_city_benin_porto_novo"
+msgstr "波多諾伏 (Porto-Novo)"
+
+msgid "qtn_clk_city_bermu_hamilton"
+msgstr "漢米爾頓 (Hamilton)"
+
+msgid "qtn_clk_city_bf_ouagadougou"
+msgstr "瓦加杜古 (Ouagadougou)"
+
+msgid "qtn_clk_city_bhutan_thimphu"
+msgstr "辛布 (Thimphu)"
+
+msgid "qtn_clk_city_biot_chagos"
+msgstr "迪戈加西亞 (Diego Garcia)"
+
+msgid "qtn_clk_city_bolivia_lapaz"
+msgstr "拉巴斯 (La Paz)"
+
+msgid "qtn_clk_city_bosnia_sarajevo"
+msgstr "薩拉耶佛 (Sarajevo)"
+
+msgid "qtn_clk_city_botswana_gaborone"
+msgstr "哈博羅內 (Gaborone)"
+
+msgid "qtn_clk_city_bra_acre"
+msgstr "阿克里 (Acre)"
+
+msgid "qtn_clk_city_bra_aragaju"
+msgstr "阿拉卡茹 (Aracaju)"
+
+msgid "qtn_clk_city_bra_araguaina"
+msgstr "阿韋瑰那 (Araguaina)"
+
+msgid "qtn_clk_city_bra_belem"
+msgstr "貝倫 (Belem)"
+
+msgid "qtn_clk_city_bra_belo_horizonte"
+msgstr "貝洛奧裡藏特 (Belo Horizonte)"
+
+msgid "qtn_clk_city_bra_boa_vista"
+msgstr "博阿維斯塔 (Boa Vista)"
+
+msgid "qtn_clk_city_bra_brasilia"
+msgstr "巴西利亞 (Brasília)"
+
+msgid "qtn_clk_city_bra_campo_grande"
+msgstr "大坎普 (Campo Grande)"
+
+msgid "qtn_clk_city_bra_cuiaba"
+msgstr "庫亞巴 (Cuiaba)"
+
+msgid "qtn_clk_city_bra_curitiba"
+msgstr "庫裡奇巴 (Curitiba)"
+
+msgid "qtn_clk_city_bra_fernand"
+msgstr "費爾南多-迪諾羅尼亞 (Fernando de Noronha)"
+
+msgid "qtn_clk_city_bra_fortaleza"
+msgstr "福塔萊薩 (Fortaleza)"
+
+msgid "qtn_clk_city_bra_goiania"
+msgstr "戈亞尼亞 (Goiania)"
+
+msgid "qtn_clk_city_bra_joao_pessoa"
+msgstr "茹旺翁佩索阿 (João Pessoa)"
+
+msgid "qtn_clk_city_bra_joinville"
+msgstr "尤因維萊 (Joinville)"
+
+msgid "qtn_clk_city_bra_macapa"
+msgstr "馬卡巴 (Macapa)"
+
+msgid "qtn_clk_city_bra_maceio"
+msgstr "馬西奧 (Maceio)"
+
+msgid "qtn_clk_city_bra_manaus"
+msgstr "馬瑙斯 (Manaus)"
+
+msgid "qtn_clk_city_bra_natal"
+msgstr "納塔爾 (Natal)"
+
+msgid "qtn_clk_city_bra_palmas"
+msgstr "帕爾馬斯 (Palmas)"
+
+msgid "qtn_clk_city_bra_porto_alegre"
+msgstr "阿雷格里港 (Porto Alegre)"
+
+msgid "qtn_clk_city_bra_porto_velho"
+msgstr "波多韋柳 (Porto Velho)"
+
+msgid "qtn_clk_city_bra_recife"
+msgstr "累西腓 (Recife)"
+
+msgid "qtn_clk_city_bra_riojan"
+msgstr "里約熱內盧 (Rio de Janeiro)"
+
+msgid "qtn_clk_city_bra_salvador"
+msgstr "薩爾瓦多 (Salvador)"
+
+msgid "qtn_clk_city_bra_sao_luis"
+msgstr "聖路易斯 Sao Luis"
+
+msgid "qtn_clk_city_bra_saopaulo"
+msgstr "聖保羅 (São Paulo)"
+
+msgid "qtn_clk_city_bra_teresina"
+msgstr "特雷西納 (Teresina)"
+
+msgid "qtn_clk_city_bra_vitoria"
+msgstr "維多利亞 (Vitoria)"
+
+msgid "qtn_clk_city_brunei_bandar_seri_begawar"
+msgstr "斯里巴加萬港 (Bandar Seri Begawan)"
+
+msgid "qtn_clk_city_bulg_sofia"
+msgstr "索非亞 (Sofia)"
+
+msgid "qtn_clk_city_burundi_bujumbura"
+msgstr "布松布拉 (Bujumbura)"
+
+msgid "qtn_clk_city_bvi_road_town"
+msgstr "羅得城 (Road Town)"
+
+msgid "qtn_clk_city_cambodia_phnom_penh"
+msgstr "金邊 (Phnom Penh)"
+
+msgid "qtn_clk_city_cameroon_yaounde"
+msgstr "雅恩德 (Yaoundé)"
+
+msgid "qtn_clk_city_canada_atikokan"
+msgstr "阿提高根 (Atikokan)"
+
+msgid "qtn_clk_city_canada_blanc_sablon"
+msgstr "白薩伯隆 (Blanc-Sablon)"
+
+msgid "qtn_clk_city_canada_calgar"
+msgstr "卡加里 (Calgary)"
+
+msgid "qtn_clk_city_canada_cambridge_bay"
+msgstr "劍橋灣 (Cambridge Bay)"
+
+msgid "qtn_clk_city_canada_charlottetown"
+msgstr "夏洛特敦 (Charlottetown)"
+
+msgid "qtn_clk_city_canada_coral_harbour"
+msgstr "珊瑚港 (Coral Harbour)"
+
+msgid "qtn_clk_city_canada_cranbrook"
+msgstr "克蘭布魯克 (Cranbrook)"
+
+msgid "qtn_clk_city_canada_creighton"
+msgstr "克賴頓 (Creighton)"
+
+msgid "qtn_clk_city_canada_dawson_creek"
+msgstr "道森克里克 (Dawson Creek)"
+
+msgid "qtn_clk_city_canada_edmonton"
+msgstr "埃德蒙頓 (Edmonton)"
+
+msgid "qtn_clk_city_canada_goose_bay"
+msgstr "鵝灣 (Goose Bay)"
+
+msgid "qtn_clk_city_canada_halifax"
+msgstr "哈利法克斯 (Halifax)"
+
+msgid "qtn_clk_city_canada_iqaluit"
+msgstr "伊魁特 (Iqaluit)"
+
+msgid "qtn_clk_city_canada_lloydminster"
+msgstr "萊敏寺 (Lloydminster)"
+
+msgid "qtn_clk_city_canada_montreal"
+msgstr "蒙特利爾 (Montreal)"
+
+msgid "qtn_clk_city_canada_ottawa"
+msgstr "渥太華 (Ottawa)"
+
+msgid "qtn_clk_city_canada_rainy_river"
+msgstr "雷尼河 (Rainy River)"
+
+msgid "qtn_clk_city_canada_rankin_inlet"
+msgstr "蘭今灣 (Rankin Inlet)"
+
+msgid "qtn_clk_city_canada_regina"
+msgstr "裡賈納 (Regina)"
+
+msgid "qtn_clk_city_canada_stjohns"
+msgstr "聖約翰斯 (St. John's)"
+
+msgid "qtn_clk_city_canada_toronto"
+msgstr "多倫多 (Toronto)"
+
+msgid "qtn_clk_city_canada_vancouv"
+msgstr "溫哥華 (Vancouver)"
+
+msgid "qtn_clk_city_canada_whitehorse"
+msgstr "懷特霍斯 (Whitehorse)"
+
+msgid "qtn_clk_city_canada_winnipeg"
+msgstr "溫尼伯 (Winnipeg)"
+
+msgid "qtn_clk_city_canada_yellowknife"
+msgstr "黃刀鎮 (Yellowknife)"
+
+msgid "qtn_clk_city_canary_las_palmas"
+msgstr "拉斯帕爾馬斯 (Las Palmas)"
+
+msgid "qtn_clk_city_capv_praia"
+msgstr "普拉亞 (Praia)"
+
+msgid "qtn_clk_city_car_bangui"
+msgstr "班吉 (Bangui)"
+
+msgid "qtn_clk_city_cayman_georgetown"
+msgstr "喬治城 (George Town)"
+
+msgid "qtn_clk_city_chad_ndjamena"
+msgstr "恩加美納 (N'Djamena)"
+
+msgid "qtn_clk_city_chile_santiago"
+msgstr "聖地牙哥 (Santiago)"
+
+msgid "qtn_clk_city_china_beijing"
+msgstr "北京 (Beijing)"
+
+msgid "qtn_clk_city_christmas_island_christmas"
+msgstr "屯墾市 (The Settlement)"
+
+msgid "qtn_clk_city_ci_kiritimati"
+msgstr "倫敦 (London)"
+
+msgid "qtn_clk_city_cocos_islands_cocos"
+msgstr "西島 (West Island)"
+
+msgid "qtn_clk_city_colomb_bogota"
+msgstr "波哥大 (Bogotá)"
+
+msgid "qtn_clk_city_comoros_moroni"
+msgstr "莫洛尼 (Moroni)"
+
+msgid "qtn_clk_city_cook_islands_rarotonga"
+msgstr "阿瓦盧阿 (Avarua)"
+
+msgid "qtn_clk_city_costar_sanjose"
+msgstr "聖約瑟 (San José)"
+
+msgid "qtn_clk_city_cotedlvoire_abidjan"
+msgstr "阿比讓 (Abidjan)"
+
+msgid "qtn_clk_city_croatia_zagreb"
+msgstr "薩格勒布 (Zagreb)"
+
+msgid "qtn_clk_city_cuba_havanna"
+msgstr "哈瓦那 (Havana)"
+
+msgid "qtn_clk_city_curacao_willemstad"
+msgstr "威廉斯塔德 (Willemstad)"
+
+msgid "qtn_clk_city_cyprus_nicosia"
+msgstr "尼科西亞 (Nicosia)"
+
+msgid "qtn_clk_city_czeh_prague"
+msgstr "布拉格 (Prague)"
+
+msgid "qtn_clk_city_den_copenhag"
+msgstr "哥本哈根 (Copenhagen)"
+
+msgid "qtn_clk_city_djibouti_djibouti"
+msgstr "吉布提 (Djibouti)"
+
+msgid "qtn_clk_city_dominica_roseau"
+msgstr "羅索 (Roseau)"
+
+msgid "qtn_clk_city_dominicareb_santod"
+msgstr "聖多明哥 (Santo Domingo)"
+
+msgid "qtn_clk_city_drc_kinshasa"
+msgstr "金夏沙 (Kinshasa)"
+
+msgid "qtn_clk_city_drc_lubumbashi"
+msgstr "盧本巴希 (Lubumbashi)"
+
+msgid "qtn_clk_city_east_timor_dili"
+msgstr "帝力 (Dili)"
+
+msgid "qtn_clk_city_easter_island_mataveri"
+msgstr "安加羅阿 (Hanga Roa)"
+
+msgid "qtn_clk_city_ecuad_quito"
+msgstr "基多 (Quito)"
+
+msgid "qtn_clk_city_egypt_cairo"
+msgstr "開羅 (Cairo)"
+
+msgid "qtn_clk_city_elsalva_sansalva"
+msgstr "聖薩爾瓦多 (San Salvador)"
+
+msgid "qtn_clk_city_eq_guinea_malabo"
+msgstr "馬拉波 (Malabo)"
+
+msgid "qtn_clk_city_eritrea_asmara"
+msgstr "阿斯馬拉 (Asmara)"
+
+msgid "qtn_clk_city_est_tallinn"
+msgstr "塔林 (Tallinn)"
+
+msgid "qtn_clk_city_ethiopia_addis_ababa"
+msgstr "阿迪斯阿貝巴 (Addis Ababa)"
+
+msgid "qtn_clk_city_falkland_stanley"
+msgstr "史坦利 (Stanley)"
+
+msgid "qtn_clk_city_faroe_islands_torshavn"
+msgstr "托爾斯港 (Tórshavn)"
+
+msgid "qtn_clk_city_fiji_suva"
+msgstr "蘇瓦 (Suva)"
+
+msgid "qtn_clk_city_fin_hki"
+msgstr "赫爾辛基 (Helsinki)"
+
+msgid "qtn_clk_city_fra_paris"
+msgstr "巴黎 (Paris)"
+
+msgid "qtn_clk_city_french_guiana_cayenne"
+msgstr "卡宴 (Cayenne)"
+
+msgid "qtn_clk_city_french_pol_gambier_islands"
+msgstr "甘比爾群島 (Gambier Islands)"
+
+msgid "qtn_clk_city_gabon_libreville"
+msgstr "利伯維爾 (Libreville)"
+
+msgid "qtn_clk_city_galapagos_islands_galapagos"
+msgstr "莫雷諾巴克里索港 (Puerto Baquerizo Moreno)"
+
+msgid "qtn_clk_city_gambia_banjul"
+msgstr "班竹 (Banjul)"
+
+msgid "qtn_clk_city_georgia_tbilisi"
+msgstr "第比利斯 (Tbilisi)"
+
+msgid "qtn_clk_city_germ_berlin"
+msgstr "柏林 (Berlin)"
+
+msgid "qtn_clk_city_ghana_accra"
+msgstr "阿克拉 (Accra)"
+
+msgid "qtn_clk_city_gibraltar_gibraltar"
+msgstr "直布羅陀 (Gibraltar)"
+
+msgid "qtn_clk_city_greece_athens"
+msgstr "雅典 (Athens)"
+
+msgid "qtn_clk_city_greenl_danmarkshavn"
+msgstr "丹麥沙芬 (Danmarkshavn)"
+
+msgid "qtn_clk_city_greenl_nuuk"
+msgstr "努克 (Nuuk)"
+
+msgid "qtn_clk_city_greenl_scoresbysund"
+msgstr "大屋區 (Ittoqqortoormiit)"
+
+msgid "qtn_clk_city_greenl_thule"
+msgstr "卡納克 (Thule)"
+
+msgid "qtn_clk_city_grenada_saint_georges"
+msgstr "聖喬治 (Saint George's)"
+
+msgid "qtn_clk_city_guadeloupe_pointe_a_pitre"
+msgstr "巴斯特爾 (Basse-Terre)"
+
+msgid "qtn_clk_city_guam_agana"
+msgstr "阿加納 (Hagatna)"
+
+msgid "qtn_clk_city_guatmal_guatemala"
+msgstr "瓜地馬拉 (Guatemala)"
+
+msgid "qtn_clk_city_guinea_bissau_bissau"
+msgstr "比紹 (Bissau)"
+
+msgid "qtn_clk_city_guinea_conakry"
+msgstr "科納克里 (Conakry)"
+
+msgid "qtn_clk_city_guy_georgetown"
+msgstr "喬治城 (Georgetown)"
+
+msgid "qtn_clk_city_haiti_port_au_prince"
+msgstr "太子港 (Port-au-Prince)"
+
+msgid "qtn_clk_city_hk_hong"
+msgstr "香港 (Hong Kong)"
+
+msgid "qtn_clk_city_honduras_tegucigalpa"
+msgstr "特古西加爾巴 (Tegucigalpa)"
+
+msgid "qtn_clk_city_hung_budapest"
+msgstr "布達佩斯 (Budapest)"
+
+msgid "qtn_clk_city_iceland_reykjavik"
+msgstr "雷克雅未克 (Reykjavík)"
+
+msgid "qtn_clk_city_india_calcut"
+msgstr "加爾各答 (Kolkata)"
+
+msgid "qtn_clk_city_india_chennai"
+msgstr "金奈市 (Chennai)"
+
+msgid "qtn_clk_city_india_mumbai"
+msgstr "孟買 (Mumbai)"
+
+msgid "qtn_clk_city_india_newdel"
+msgstr "新德里 (New Delhi)"
+
+msgid "qtn_clk_city_indon_jakarta"
+msgstr "雅加達 (Jakarta)"
+
+msgid "qtn_clk_city_indon_jayapura"
+msgstr "查雅普拉 (Jayapura)"
+
+msgid "qtn_clk_city_indon_makassar"
+msgstr "望加西 (Makassar)"
+
+msgid "qtn_clk_city_iran_tehran"
+msgstr "德黑蘭 (Tehran)"
+
+msgid "qtn_clk_city_iraq_baghdad"
+msgstr "巴格達 (Baghdad)"
+
+msgid "qtn_clk_city_ireland_belfast"
+msgstr "貝爾法斯特 (Belfast)"
+
+msgid "qtn_clk_city_ireland_dubli"
+msgstr "都柏林 (Dublin)"
+
+msgid "qtn_clk_city_israel_jerusalem"
+msgstr "耶路撒冷 (Jerusalem)"
+
+msgid "qtn_clk_city_israel_telaviv"
+msgstr "特拉維夫 (Tel Aviv)"
+
+msgid "qtn_clk_city_italy_rome"
+msgstr "羅馬 (Rome)"
+
+msgid "qtn_clk_city_jamaica_kings"
+msgstr "京斯敦 (Kingston)"
+
+msgid "qtn_clk_city_jordan_amman"
+msgstr "安曼 (Amman)"
+
+msgid "qtn_clk_city_jp_osaka"
+msgstr "大阪 (Osaka)"
+
+msgid "qtn_clk_city_jp_sapporo"
+msgstr "札幌 (Sapporo)"
+
+msgid "qtn_clk_city_jp_tokyo"
+msgstr "東京 (Tokyo)"
+
+msgid "qtn_clk_city_kaz_aqtau"
+msgstr "阿克套 (Aqtau)"
+
+msgid "qtn_clk_city_kaz_astana"
+msgstr "阿斯塔納 (Astana)"
+
+msgid "qtn_clk_city_kenya_nairob"
+msgstr "奈洛比 (Nairobi)"
+
+msgid "qtn_clk_city_kerguelen_port_aux_francais"
+msgstr "佛蘭凱斯奧克斯港 (Port-aux-Francais)"
+
+msgid "qtn_clk_city_kiribati_tarawa"
+msgstr "塔拉瓦島 (Tarawa)"
+
+msgid "qtn_clk_city_kuwait_kuwait"
+msgstr "科威特 (Kuwait)"
+
+msgid "qtn_clk_city_kyrgyzstan_bishkek"
+msgstr "彼什凱克 (Bishkek)"
+
+msgid "qtn_clk_city_laos_vientiane"
+msgstr "萬象 (Vientiane)"
+
+msgid "qtn_clk_city_latvia_riga"
+msgstr "裡加 (Riga)"
+
+msgid "qtn_clk_city_lebanon_beirut"
+msgstr "貝魯特 (Beirut)"
+
+msgid "qtn_clk_city_lesotho_maseru"
+msgstr "馬賽盧 (Maseru)"
+
+msgid "qtn_clk_city_liber_monorov"
+msgstr "蒙羅維亞 (Monrovia)"
+
+msgid "qtn_clk_city_libya_tripoli"
+msgstr "的黎波里 (Tripoli)"
+
+msgid "qtn_clk_city_liechtenstein_vaduz"
+msgstr "華都茲 (Vaduz)"
+
+msgid "qtn_clk_city_lith_vilnius"
+msgstr "維爾紐斯 (Vilnius)"
+
+msgid "qtn_clk_city_luxembourg_luxembourg"
+msgstr "盧森堡 (Luxembourg)"
+
+msgid "qtn_clk_city_macau"
+msgstr "澳門 (Macau)"
+
+msgid "qtn_clk_city_madagascar_antananarivo"
+msgstr "安塔那利佛 (Antananarivo)"
+
+msgid "qtn_clk_city_madeira_funchal"
+msgstr "豐沙爾 (Funchal)"
+
+msgid "qtn_clk_city_makedo_skopje"
+msgstr "斯科普里 (Skopje)"
+
+msgid "qtn_clk_city_malawi_lilongwe"
+msgstr "裡朗威 (Lilongwe)"
+
+msgid "qtn_clk_city_maldives_male"
+msgstr "馬爾 (Male)"
+
+msgid "qtn_clk_city_male_kualalump"
+msgstr "吉隆坡 (Kuala Lumpur)"
+
+msgid "qtn_clk_city_mali_bamako"
+msgstr "巴馬科 (Bamako)"
+
+msgid "qtn_clk_city_malta_valletta"
+msgstr "瓦萊塔 (Valletta)"
+
+msgid "qtn_clk_city_marq_island_taiohae"
+msgstr "泰奧海伊 (Taiohae)"
+
+msgid "qtn_clk_city_mars_islands_majuro"
+msgstr "麥哲魯 (Majuro)"
+
+msgid "qtn_clk_city_martinique_fort_de_franc"
+msgstr "法蘭西堡 (Fort-de-France)"
+
+msgid "qtn_clk_city_mauritania_nouakchott"
+msgstr "努瓦克肖特 (Nouakchott)"
+
+msgid "qtn_clk_city_mauritius_port_louis"
+msgstr "路易港 (Port Louis)"
+
+msgid "qtn_clk_city_mayotte_mamoudzou"
+msgstr "馬木祖 (Mamoudzou)"
+
+msgid "qtn_clk_city_mexico_chihua"
+msgstr "奇瓦瓦 (Chihuahua)"
+
+msgid "qtn_clk_city_mexico_mexicoc"
+msgstr "墨西哥城 (Mexico City)"
+
+msgid "qtn_clk_city_mexico_sonora"
+msgstr "索諾拉 (Sonora)"
+
+msgid "qtn_clk_city_mexico_tijuana"
+msgstr "提華納 (Tijuana)"
+
+msgid "qtn_clk_city_micronesia_colonia"
+msgstr "科隆尼亞 (Colonia)"
+
+msgid "qtn_clk_city_micronesia_ponape"
+msgstr "帕裡克 (Palikir)"
+
+msgid "qtn_clk_city_moldova_kishinev"
+msgstr "基希訥烏 (Chisinau)"
+
+msgid "qtn_clk_city_mona_monaco"
+msgstr "摩納哥 (Monaco)"
+
+msgid "qtn_clk_city_mongolia_choibalsan"
+msgstr "喬巴山 (Choybalsan)"
+
+msgid "qtn_clk_city_mongolia_hovd"
+msgstr "吉爾格朗圖 (Hovd)"
+
+msgid "qtn_clk_city_mongolia_ulan"
+msgstr "烏蘭巴托 (Ulaanbaatar)"
+
+msgid "qtn_clk_city_montenegro_podgorica"
+msgstr "波德戈裡察 (Podgorica)"
+
+msgid "qtn_clk_city_montserrat_olveston"
+msgstr "佈雷德斯村 (Brades Estate)"
+
+msgid "qtn_clk_city_moroc_casabl"
+msgstr "薩布蘭卡市 (Casablanca)"
+
+msgid "qtn_clk_city_moroc_rabat"
+msgstr "拉巴特 (Rabat)"
+
+msgid "qtn_clk_city_mozambique_maputo"
+msgstr "馬普托 (Maputo)"
+
+msgid "qtn_clk_city_myanmar_rango"
+msgstr "仰光 (Rangoon)"
+
+msgid "qtn_clk_city_n_mariana_i_saipan"
+msgstr "塞班島 (Saipan)"
+
+msgid "qtn_clk_city_namibia_windhoek"
+msgstr "溫得和克 (Windhoek)"
+
+msgid "qtn_clk_city_nauru_makwa"
+msgstr "亞倫區 (Yaren District)"
+
+msgid "qtn_clk_city_nepal_kathma"
+msgstr "加德滿都 (Kathmandu)"
+
+msgid "qtn_clk_city_neth_amsterdam"
+msgstr "阿姆斯特丹 (Amsterdam)"
+
+msgid "qtn_clk_city_new_caledonia_noumea"
+msgstr "努美阿 (Noumea)"
+
+msgid "qtn_clk_city_newz_auckland"
+msgstr "奧克蘭 (Auckland)"
+
+msgid "qtn_clk_city_newz_chatham"
+msgstr "查塔姆 (Chatham)"
+
+msgid "qtn_clk_city_nicarag_managua"
+msgstr "馬拿瓜 (Managua)"
+
+msgid "qtn_clk_city_niger_niamey"
+msgstr "尼亞美 (Niamey)"
+
+msgid "qtn_clk_city_nigeria_abuja"
+msgstr "阿布賈 (Abuja)"
+
+msgid "qtn_clk_city_niue_alofi"
+msgstr "阿洛菲 (Alofi)"
+
+msgid "qtn_clk_city_norfolk_kingston"
+msgstr "京斯敦 (Kingston)"
+
+msgid "qtn_clk_city_north_korea_pyongyang"
+msgstr "平壤 (Pyongyang)"
+
+msgid "qtn_clk_city_norw_oslo"
+msgstr "奧斯陸 (Oslo)"
+
+msgid "qtn_clk_city_nzealand_welling"
+msgstr "威靈頓 (Wellington)"
+
+msgid "qtn_clk_city_oman_muscat"
+msgstr "馬斯喀特 (Muscat)"
+
+msgid "qtn_clk_city_pakist_islama"
+msgstr "伊斯蘭堡 (Islamabad)"
+
+msgid "qtn_clk_city_pakistan_karac"
+msgstr "卡拉奇 (Karachi)"
+
+msgid "qtn_clk_city_palau_koror"
+msgstr "梅萊凱奧克 (Melekeok)"
+
+msgid "qtn_clk_city_panama_panamac"
+msgstr "巴拿馬市 (Panama City)"
+
+msgid "qtn_clk_city_paraqu_asunc"
+msgstr "亞松森 (Asunción)"
+
+msgid "qtn_clk_city_peru_lima"
+msgstr "利馬 (Lima)"
+
+msgid "qtn_clk_city_philippines_manila"
+msgstr "馬尼拉 (Manila)"
+
+msgid "qtn_clk_city_phoenix_islands_rawaki"
+msgstr "坎敦 (Kanton)"
+
+msgid "qtn_clk_city_pitcairn_adamstown"
+msgstr "亞當斯敦 (Adamstown)"
+
+msgid "qtn_clk_city_png_portmoresby"
+msgstr "摩爾斯貝港 (Port Moresby)"
+
+msgid "qtn_clk_city_pol_warsaw"
+msgstr "華沙 (Warsaw)"
+
+msgid "qtn_clk_city_portu_lisbon"
+msgstr "里斯本 (Lisbon)"
+
+msgid "qtn_clk_city_puertor_sanjuan"
+msgstr "聖胡安 (San Juan)"
+
+msgid "qtn_clk_city_qatar_doha"
+msgstr "多哈 (Doha)"
+
+msgid "qtn_clk_city_r_congo_brazzaville"
+msgstr "布拉薩 (Brazzaville)"
+
+msgid "qtn_clk_city_reunion_saint_denis"
+msgstr "聖丹尼斯 (Saint-Denis)"
+
+msgid "qtn_clk_city_romania_buch"
+msgstr "布加勒斯特 (Bucharest)"
+
+msgid "qtn_clk_city_rus_anadyr"
+msgstr "阿納德爾河 (Anadyr)"
+
+msgid "qtn_clk_city_rus_irkutsk"
+msgstr "伊爾庫次克 (Irkutsk)"
+
+msgid "qtn_clk_city_rus_kaliningrad"
+msgstr "加里寧格勒 (Kaliningrad)"
+
+msgid "qtn_clk_city_rus_krasnoyarsk"
+msgstr "克拉斯諾雅茨克 (Krasnoyarsk)"
+
+msgid "qtn_clk_city_rus_magadan"
+msgstr "馬加丹 (Magadan)"
+
+msgid "qtn_clk_city_rus_moscow"
+msgstr "莫斯科 (Moscow)"
+
+msgid "qtn_clk_city_rus_novosib"
+msgstr "新西伯利亞 (Novosibirsk)"
+
+msgid "qtn_clk_city_rus_samara"
+msgstr "薩馬拉 (Samara)"
+
+msgid "qtn_clk_city_rus_stpeters"
+msgstr "聖彼得堡 (St. Petersburg)"
+
+msgid "qtn_clk_city_rus_vladivost"
+msgstr "海參崴 (Vladivostok)"
+
+msgid "qtn_clk_city_rus_yakutsk"
+msgstr "雅庫茨克 (Yakutsk)"
+
+msgid "qtn_clk_city_rus_yekaterinburg"
+msgstr "凱薩琳堡 (Yekaterinburg)"
+
+msgid "qtn_clk_city_rwanda_kigali"
+msgstr "基加利 (Kigali)"
+
+msgid "qtn_clk_city_safric_johburg"
+msgstr "約翰尼斯堡 (Johannesburg)"
+
+msgid "qtn_clk_city_safric_pretoria"
+msgstr "普利托里亞 (Pretoria)"
+
+msgid "qtn_clk_city_samoa_apia"
+msgstr "阿批亞 (Apia)"
+
+msgid "qtn_clk_city_san_marino"
+msgstr "聖馬力諾 (San Marino)"
+
+msgid "qtn_clk_city_sao_tome_principe_sao_tome"
+msgstr "聖多美 (São Tomé)"
+
+msgid "qtn_clk_city_saudiarab_riya"
+msgstr "利雅德 (Riyadh)"
+
+msgid "qtn_clk_city_senegal_dakar"
+msgstr "達喀爾 (Dakar)"
+
+msgid "qtn_clk_city_serb_belgrade"
+msgstr "貝爾格萊德 (Belgrade)"
+
+msgid "qtn_clk_city_seychelles_victoria"
+msgstr "維多利亞 (Victoria)"
+
+msgid "qtn_clk_city_sierra_leone_freetown"
+msgstr "自由城 (Freetown)"
+
+msgid "qtn_clk_city_singp_singapore"
+msgstr "新加坡 (Singapore)"
+
+msgid "qtn_clk_city_skorea_seoul"
+msgstr "首爾 (Seoul)"
+
+msgid "qtn_clk_city_slova_bratislava"
+msgstr "布拉提斯拉瓦 (Bratislava)"
+
+msgid "qtn_clk_city_slove_ljubljana"
+msgstr "盧布爾雅那 (Ljubljana)"
+
+msgid "qtn_clk_city_solomis_honiar"
+msgstr "霍尼亞拉 (Honiara)"
+
+msgid "qtn_clk_city_somalia_mogadishu"
+msgstr "摩加迪休 (Mogadishu)"
+
+msgid "qtn_clk_city_south_georgia_grytviken"
+msgstr "葛利特維根 (Grytviken)"
+
+msgid "qtn_clk_city_spain_madrid"
+msgstr "馬德里 (Madrid)"
+
+msgid "qtn_clk_city_srilan_colombo"
+msgstr "科倫坡 (Colombo)"
+
+msgid "qtn_clk_city_st_helena_jamestown"
+msgstr "詹姆斯敦 (Jamestown)"
+
+msgid "qtn_clk_city_st_kitts_nevis_basseterre"
+msgstr "巴斯特爾 (Basseterre)"
+
+msgid "qtn_clk_city_st_lucia_castries"
+msgstr "卡斯特裡 (Castries)"
+
+msgid "qtn_clk_city_st_pierre_miquelon_pierre"
+msgstr "聖皮埃爾 (Saint-Pierre)"
+
+msgid "qtn_clk_city_st_vincent_kingstown"
+msgstr "金斯敦 (Kingstown)"
+
+msgid "qtn_clk_city_sudan_khartoum"
+msgstr "喀土木 (Khartoum)"
+
+msgid "qtn_clk_city_suriname_paramaribo"
+msgstr "帕拉馬里博 (Paramaribo)"
+
+msgid "qtn_clk_city_swaziland_mbabane"
+msgstr "姆巴巴納 (Mbabane)"
+
+msgid "qtn_clk_city_swe_stockholm"
+msgstr "斯德哥爾摩 (Stockholm)"
+
+msgid "qtn_clk_city_switz_bern"
+msgstr "伯恩 (Bern)"
+
+msgid "qtn_clk_city_switzerland_zurich"
+msgstr "蘇黎世 (Zurich)"
+
+msgid "qtn_clk_city_syria_damascus"
+msgstr "大馬士革 (Damascus)"
+
+msgid "qtn_clk_city_tahiti_papeete"
+msgstr "帕比提 (Papeete)"
+
+msgid "qtn_clk_city_taiw_taipei"
+msgstr "台北 (Taipei)"
+
+msgid "qtn_clk_city_tajikistan_dushanbe"
+msgstr "杜尚別 (Dushanbe)"
+
+msgid "qtn_clk_city_tanzania_dar_es_salaam"
+msgstr "達累斯薩拉姆 (Dar es Salaam)"
+
+msgid "qtn_clk_city_thai_bangkok"
+msgstr "曼谷 (Bangkok)"
+
+msgid "qtn_clk_city_togo_lome"
+msgstr "洛梅 (Lomé)"
+
+msgid "qtn_clk_city_tokelau_fakaofo"
+msgstr "法考福 (Fakaofo)"
+
+msgid "qtn_clk_city_tonga_nuku"
+msgstr "努庫阿洛法 (Nuku'alofa)"
+
+msgid "qtn_clk_city_trinidad_portofspain"
+msgstr "西班牙港 (Port of Spain)"
+
+msgid "qtn_clk_city_tunisia_tunis"
+msgstr "突尼斯 (Tunis)"
+
+msgid "qtn_clk_city_turk_ankara"
+msgstr "安卡拉 (Ankara)"
+
+msgid "qtn_clk_city_turk_istanbul"
+msgstr "伊斯坦堡 (Istanbul)"
+
+msgid "qtn_clk_city_turkmenistan_ashgabat"
+msgstr "阿什哈巴德 (Ashgabat)"
+
+msgid "qtn_clk_city_turks_caicos_kingston"
+msgstr "科伯恩城 (Cockburn Town)"
+
+msgid "qtn_clk_city_tuvalu_funafuti"
+msgstr "富納富提 (Funafuti)"
+
+msgid "qtn_clk_city_uganda_kampala"
+msgstr "坎帕拉 (Kampala)"
+
+msgid "qtn_clk_city_uk_cardiff"
+msgstr "加地夫 (Cardiff)"
+
+msgid "qtn_clk_city_uk_edingbu"
+msgstr "愛丁堡 (Edinburgh)"
+
+msgid "qtn_clk_city_uk_london"
+msgstr "倫敦 (London)"
+
+msgid "qtn_clk_city_ukraine_kiev"
+msgstr "基輔 (Kyiv)"
+
+msgid "qtn_clk_city_urugua_montev"
+msgstr "蒙特維多 (Montevideo)"
+
+msgid "qtn_clk_city_usa_adak"
+msgstr "艾達克 (Adak), 阿拉斯加州"
+
+msgid "qtn_clk_city_usa_albuquer"
+msgstr "阿爾伯克基 (Albuquer), 新墨西哥州"
+
+msgid "qtn_clk_city_usa_atlanta"
+msgstr "亞特蘭大 (Atlanta), 喬治亞州"
+
+msgid "qtn_clk_city_usa_augusta"
+msgstr "奧古斯塔 (Augusta), 緬因州"
+
+msgid "qtn_clk_city_usa_baltimore"
+msgstr "巴爾的摩港 (Baltimore), 馬里蘭州"
+
+msgid "qtn_clk_city_usa_billings"
+msgstr "比林斯 (Billings), 蒙大拿州"
+
+msgid "qtn_clk_city_usa_birmingham"
+msgstr "伯明翰 (Birmingham), 阿拉巴馬州"
+
+msgid "qtn_clk_city_usa_bismarck"
+msgstr "卑斯麥 (Bismarck), 北達科他州"
+
+msgid "qtn_clk_city_usa_boise"
+msgstr "波伊西 (Boise), 愛達荷州"
+
+msgid "qtn_clk_city_usa_boston"
+msgstr "波士頓 (Boston), 麻薩諸塞州"
+
+msgid "qtn_clk_city_usa_charleston"
+msgstr "查爾斯頓 (Charleston), 西維吉尼亞州"
+
+msgid "qtn_clk_city_usa_charlotte"
+msgstr "夏洛特 (Charlotte), 北卡羅來納州"
+
+msgid "qtn_clk_city_usa_charlotte_amalie"
+msgstr "夏洛特阿馬利亞 (Charlotte Amalie), 美屬維京群島"
+
+msgid "qtn_clk_city_usa_cheyenne"
+msgstr "夏安 (Cheyenne), 懷俄明州"
+
+msgid "qtn_clk_city_usa_chicago"
+msgstr "芝加哥 (Chicago), 伊利諾州"
+
+msgid "qtn_clk_city_usa_columbia"
+msgstr "哥倫比亞 (Columbia), 南卡羅來納州"
+
+msgid "qtn_clk_city_usa_columbus"
+msgstr "哥倫布 (Columbus), 俄亥俄州"
+
+msgid "qtn_clk_city_usa_concord"
+msgstr "康科特 (Concord), 新罕布什爾州"
+
+msgid "qtn_clk_city_usa_dallas"
+msgstr "達拉斯 (Dallas), 德州"
+
+msgid "qtn_clk_city_usa_denver"
+msgstr "丹佛 (Denver), 科羅拉多州"
+
+msgid "qtn_clk_city_usa_desmoines"
+msgstr "得梅因 (Des Moines), 愛荷華州"
+
+msgid "qtn_clk_city_usa_detroit"
+msgstr "底特律 (Detroit), 密西根州"
+
+msgid "qtn_clk_city_usa_dover"
+msgstr "多佛 (Dover), 德拉瓦州"
+
+msgid "qtn_clk_city_usa_evansville"
+msgstr "埃文斯維爾 (Evansville), 印第安納州"
+
+msgid "qtn_clk_city_usa_gary"
+msgstr "葛理 (Gary), 印第安納州"
+
+msgid "qtn_clk_city_usa_guam"
+msgstr "關島 (Guam)"
+
+msgid "qtn_clk_city_usa_hatford"
+msgstr "哈特福特 (Hartford), 康乃迪克州"
+
+msgid "qtn_clk_city_usa_hawaii"
+msgstr "檀香山 (Honolulu), 夏威夷州"
+
+msgid "qtn_clk_city_usa_indiana"
+msgstr "印第安那波里 (Indianapolis), 印第安納州"
+
+msgid "qtn_clk_city_usa_jackson"
+msgstr "傑克遜 (Jackson), 密西西比州"
+
+msgid "qtn_clk_city_usa_juneau"
+msgstr "朱諾 (Juneau), 阿拉斯加州"
+
+msgid "qtn_clk_city_usa_lasvega"
+msgstr "拉斯維加斯 (Las Vegas), 內華達州"
+
+msgid "qtn_clk_city_usa_losange"
+msgstr "洛杉磯 (Los Angeles), 加州"
+
+msgid "qtn_clk_city_usa_louisville"
+msgstr "路易斯維爾 (Louisville), 肯塔基州"
+
+msgid "qtn_clk_city_usa_memphis"
+msgstr "孟菲斯 (Memphis), 田納西州"
+
+msgid "qtn_clk_city_usa_miami"
+msgstr "邁阿密 (Miami), 佛羅里達州"
+
+msgid "qtn_clk_city_usa_milwaukee"
+msgstr "密爾沃基 (Milwaukee), 威斯康辛州"
+
+msgid "qtn_clk_city_usa_minneap"
+msgstr "明尼阿波里斯市 (Minneapolis), 明尼蘇達州"
+
+msgid "qtn_clk_city_usa_montpelier"
+msgstr "蒙彼利埃 (Montpelier), 佛蒙特州"
+
+msgid "qtn_clk_city_usa_neworlea"
+msgstr "紐奧良 (New Orleans), 路易斯安那州"
+
+msgid "qtn_clk_city_usa_ny"
+msgstr "紐約市 (New York City), 紐約"
+
+msgid "qtn_clk_city_usa_oklahoma"
+msgstr "奧克拉荷馬市 (Oklahoma City), 奧克拉荷馬州"
+
+msgid "qtn_clk_city_usa_omaha"
+msgstr "阿馬哈市 (Omaha), 內布拉斯加"
+
+msgid "qtn_clk_city_usa_pago_pago"
+msgstr "帕果帕果 (Pago Pago), 美屬薩摩亞"
+
+msgid "qtn_clk_city_usa_pensacola"
+msgstr "彭薩科拉 (Pensacola), 佛羅里達州"
+
+msgid "qtn_clk_city_usa_philadelp"
+msgstr "費城 (Philadelphia), 賓夕法尼亞州"
+
+msgid "qtn_clk_city_usa_phoenix"
+msgstr "鳳凰城 (Phoenix), 亞利桑那州"
+
+msgid "qtn_clk_city_usa_portland"
+msgstr "波特蘭 (Portland), 俄勒岡州"
+
+msgid "qtn_clk_city_usa_providence"
+msgstr "普洛威頓斯 (Providence), 羅德島"
+
+msgid "qtn_clk_city_usa_richmond"
+msgstr "理奇蒙 (Richmond), 維吉尼亞州"
+
+msgid "qtn_clk_city_usa_saipan"
+msgstr "塞班 (Saipan), 北馬里安納群島"
+
+msgid "qtn_clk_city_usa_saltlakec"
+msgstr "鹽湖城 (Salt Lake City), 猶他州"
+
+msgid "qtn_clk_city_usa_sanfranci"
+msgstr "舊金山市(San Francisco), 加州"
+
+msgid "qtn_clk_city_usa_seattle"
+msgstr "西雅圖 (Seattle), 華盛頓州"
+
+msgid "qtn_clk_city_usa_sioux_falls"
+msgstr "蘇福爾斯 (Sioux Falls), 南達科他州"
+
+msgid "qtn_clk_city_usa_stluis"
+msgstr "聖路易 (St. Louis), 密蘇里州"
+
+msgid "qtn_clk_city_usa_washington"
+msgstr "華盛頓 (Washington), 哥倫比亞特區"
+
+msgid "qtn_clk_city_usa_wichita"
+msgstr "威奇托福爾斯 (Wichita), 堪薩斯州"
+
+msgid "qtn_clk_city_uzbe_tashkent"
+msgstr "塔什干 (Tashkent)"
+
+msgid "qtn_clk_city_vanuatu_port_vila"
+msgstr "維拉港 (Port Vila)"
+
+msgid "qtn_clk_city_vatican_vatican_city"
+msgstr "教廷 (Holy See), 梵蒂岡"
+
+msgid "qtn_clk_city_vene_caracas"
+msgstr "卡拉卡斯 (Caracas)"
+
+msgid "qtn_clk_city_viet_hanoi"
+msgstr "河內 (Hanoi)"
+
+msgid "qtn_clk_city_wallis_futuna_wallis"
+msgstr "馬塔烏圖 (Mata-Utu)"
+
+msgid "qtn_clk_city_west_sahara_el_aaiun"
+msgstr "阿尤恩 (Laayoune)"
+
+msgid "qtn_clk_city_yemen_sana"
+msgstr "薩那 (Sanaa)"
+
+msgid "qtn_clk_city_zambia_lusaka"
+msgstr "盧薩卡 (Lusaka)"
+
+msgid "qtn_clk_city_zimb_harare"
+msgstr "哈拉雷 (Harare)"
