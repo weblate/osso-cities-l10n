@@ -1,0 +1,1212 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.15 12:46+0300\n"
+"PO-Revision-Date: 2010-11-30 11:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "qtn_clk_city_ab_saint_johns"
+msgstr "Сейнт Джонс"
+
+msgid "qtn_clk_city_abu_dhabi"
+msgstr "Абу Даби"
+
+msgid "qtn_clk_city_afga_kabul"
+msgstr "Кабул"
+
+msgid "qtn_clk_city_albania_tirane"
+msgstr "Тирана"
+
+msgid "qtn_clk_city_algeria_algiers"
+msgstr "Алжир"
+
+msgid "qtn_clk_city_andorra_la_vella"
+msgstr "Андора ла Веля"
+
+msgid "qtn_clk_city_angola_luanda"
+msgstr "Луанда"
+
+msgid "qtn_clk_city_anguilla_anguilla"
+msgstr "Ангила"
+
+msgid "qtn_clk_city_argen_buenos"
+msgstr "Буенос Айрес"
+
+msgid "qtn_clk_city_armenia_yerevan"
+msgstr "Ереван"
+
+msgid "qtn_clk_city_aruba_oranjestad"
+msgstr "Оранестад"
+
+msgid "qtn_clk_city_aus_adelaide"
+msgstr "Аделаида"
+
+msgid "qtn_clk_city_aus_brisbane"
+msgstr "Бризбейн"
+
+msgid "qtn_clk_city_aus_canberra"
+msgstr "Канбера"
+
+msgid "qtn_clk_city_aus_darwin"
+msgstr "Дарвин"
+
+msgid "qtn_clk_city_aus_eucla"
+msgstr "Евкла"
+
+msgid "qtn_clk_city_aus_hobart"
+msgstr "Хобърт"
+
+msgid "qtn_clk_city_aus_lord_howe_island"
+msgstr "о-в Лорд Хоу"
+
+msgid "qtn_clk_city_aus_melbourne"
+msgstr "Мелбърн"
+
+msgid "qtn_clk_city_aus_perth"
+msgstr "Пърт"
+
+msgid "qtn_clk_city_aus_sydney"
+msgstr "Сидни"
+
+msgid "qtn_clk_city_austria_vienna"
+msgstr "Виена"
+
+msgid "qtn_clk_city_azerb_baku"
+msgstr "Баку"
+
+msgid "qtn_clk_city_azores_ponta_delgada"
+msgstr "Понта Делгада"
+
+msgid "qtn_clk_city_baham_nassau"
+msgstr "Насау"
+
+msgid "qtn_clk_city_bahrain_al_manamah"
+msgstr "Манама"
+
+msgid "qtn_clk_city_bangla_dhaka"
+msgstr "Дака"
+
+msgid "qtn_clk_city_barbados_bridgetown"
+msgstr "Бриджтаун"
+
+msgid "qtn_clk_city_belarus_minsk"
+msgstr "Минск"
+
+msgid "qtn_clk_city_belg_brussels"
+msgstr "Брюксел"
+
+msgid "qtn_clk_city_belize_belmopan"
+msgstr "Белмопан"
+
+msgid "qtn_clk_city_benin_porto_novo"
+msgstr "Порто Ново"
+
+msgid "qtn_clk_city_bermu_hamilton"
+msgstr "Хамилтон"
+
+msgid "qtn_clk_city_bf_ouagadougou"
+msgstr "Уагадугу"
+
+msgid "qtn_clk_city_bhutan_thimphu"
+msgstr "Тимпу"
+
+msgid "qtn_clk_city_biot_chagos"
+msgstr "арх. Чагос"
+
+msgid "qtn_clk_city_bolivia_lapaz"
+msgstr "Ла Пас"
+
+msgid "qtn_clk_city_bosnia_sarajevo"
+msgstr "Сараево"
+
+msgid "qtn_clk_city_botswana_gaborone"
+msgstr "Габороне"
+
+msgid "qtn_clk_city_bra_acre"
+msgstr "Acre"
+
+msgid "qtn_clk_city_bra_aragaju"
+msgstr "Аракажу"
+
+msgid "qtn_clk_city_bra_araguaina"
+msgstr "Арагуайна"
+
+msgid "qtn_clk_city_bra_belem"
+msgstr "Белем"
+
+msgid "qtn_clk_city_bra_belo_horizonte"
+msgstr "Белу Оризонти"
+
+msgid "qtn_clk_city_bra_boa_vista"
+msgstr "Боависта"
+
+msgid "qtn_clk_city_bra_brasilia"
+msgstr "Бразилия"
+
+msgid "qtn_clk_city_bra_campo_grande"
+msgstr "Кампо Гранде"
+
+msgid "qtn_clk_city_bra_cuiaba"
+msgstr "Куяба"
+
+msgid "qtn_clk_city_bra_curitiba"
+msgstr "Куритиба"
+
+msgid "qtn_clk_city_bra_fernand"
+msgstr "Фернандо де Норонха"
+
+msgid "qtn_clk_city_bra_fortaleza"
+msgstr "Форталеза"
+
+msgid "qtn_clk_city_bra_goiania"
+msgstr "Гояния"
+
+msgid "qtn_clk_city_bra_joao_pessoa"
+msgstr "Жуан-Песоа"
+
+msgid "qtn_clk_city_bra_joinville"
+msgstr "Джоинвил"
+
+msgid "qtn_clk_city_bra_macapa"
+msgstr "Macapa"
+
+msgid "qtn_clk_city_bra_maceio"
+msgstr "Масейо"
+
+msgid "qtn_clk_city_bra_manaus"
+msgstr "Манаус"
+
+msgid "qtn_clk_city_bra_natal"
+msgstr "Натал"
+
+msgid "qtn_clk_city_bra_palmas"
+msgstr "Палмас"
+
+msgid "qtn_clk_city_bra_porto_alegre"
+msgstr "Порто Алегре"
+
+msgid "qtn_clk_city_bra_porto_velho"
+msgstr "Порту Велю"
+
+msgid "qtn_clk_city_bra_recife"
+msgstr "Ресифи"
+
+msgid "qtn_clk_city_bra_riojan"
+msgstr "Рио де Жанейро"
+
+msgid "qtn_clk_city_bra_salvador"
+msgstr "Салвадор"
+
+msgid "qtn_clk_city_bra_sao_luis"
+msgstr "Сао Луис"
+
+msgid "qtn_clk_city_bra_saopaulo"
+msgstr "Сао Пауло"
+
+msgid "qtn_clk_city_bra_teresina"
+msgstr "Терезина"
+
+msgid "qtn_clk_city_bra_vitoria"
+msgstr "Витория"
+
+msgid "qtn_clk_city_brunei_bandar_seri_begawar"
+msgstr "Бандар Сери Бегаван"
+
+msgid "qtn_clk_city_bulg_sofia"
+msgstr "София"
+
+msgid "qtn_clk_city_burundi_bujumbura"
+msgstr "Бужумбура"
+
+msgid "qtn_clk_city_bvi_road_town"
+msgstr "Роад Таун"
+
+msgid "qtn_clk_city_cambodia_phnom_penh"
+msgstr "Пном Пен Камбоджа"
+
+msgid "qtn_clk_city_cameroon_yaounde"
+msgstr "Яунде"
+
+msgid "qtn_clk_city_canada_atikokan"
+msgstr "Атикокан"
+
+msgid "qtn_clk_city_canada_blanc_sablon"
+msgstr "Блан-Саблон"
+
+msgid "qtn_clk_city_canada_calgar"
+msgstr "Калгари"
+
+msgid "qtn_clk_city_canada_cambridge_bay"
+msgstr "Кембридж Бей"
+
+msgid "qtn_clk_city_canada_charlottetown"
+msgstr "Шарлъттаун"
+
+msgid "qtn_clk_city_canada_coral_harbour"
+msgstr "Корал Харбър"
+
+msgid "qtn_clk_city_canada_cranbrook"
+msgstr "Кранбрук"
+
+msgid "qtn_clk_city_canada_creighton"
+msgstr "Крейтън"
+
+msgid "qtn_clk_city_canada_dawson_creek"
+msgstr "Доусон Крик"
+
+msgid "qtn_clk_city_canada_edmonton"
+msgstr "Едмънтън"
+
+msgid "qtn_clk_city_canada_goose_bay"
+msgstr "Гуус Бей"
+
+msgid "qtn_clk_city_canada_halifax"
+msgstr "Халифакс"
+
+msgid "qtn_clk_city_canada_iqaluit"
+msgstr "Икалуит"
+
+msgid "qtn_clk_city_canada_lloydminster"
+msgstr "Лойдминстър"
+
+msgid "qtn_clk_city_canada_montreal"
+msgstr "Монреал"
+
+msgid "qtn_clk_city_canada_ottawa"
+msgstr "Отава"
+
+msgid "qtn_clk_city_canada_rainy_river"
+msgstr "Рейни Ривър"
+
+msgid "qtn_clk_city_canada_rankin_inlet"
+msgstr "Ранкин Инлет"
+
+msgid "qtn_clk_city_canada_regina"
+msgstr "Реджина"
+
+msgid "qtn_clk_city_canada_stjohns"
+msgstr "Сейнт Джонс"
+
+msgid "qtn_clk_city_canada_toronto"
+msgstr "Торонто"
+
+msgid "qtn_clk_city_canada_vancouv"
+msgstr "Ванкувър"
+
+msgid "qtn_clk_city_canada_whitehorse"
+msgstr "Уайтхорс"
+
+msgid "qtn_clk_city_canada_winnipeg"
+msgstr "Уинипег"
+
+msgid "qtn_clk_city_canada_yellowknife"
+msgstr "Йелоунайф"
+
+msgid "qtn_clk_city_canary_las_palmas"
+msgstr "Лас Палмас"
+
+msgid "qtn_clk_city_capv_praia"
+msgstr "Прая"
+
+msgid "qtn_clk_city_car_bangui"
+msgstr "Банги"
+
+msgid "qtn_clk_city_cayman_georgetown"
+msgstr "Джорджтаун"
+
+msgid "qtn_clk_city_chad_ndjamena"
+msgstr "Нджамена"
+
+msgid "qtn_clk_city_chile_santiago"
+msgstr "Сантяго"
+
+msgid "qtn_clk_city_china_beijing"
+msgstr "Пекин"
+
+msgid "qtn_clk_city_christmas_island_christmas"
+msgstr "о-в Рождество"
+
+msgid "qtn_clk_city_ci_kiritimati"
+msgstr "Киритимати"
+
+msgid "qtn_clk_city_cocos_islands_cocos"
+msgstr "Кокосови о-ви"
+
+msgid "qtn_clk_city_colomb_bogota"
+msgstr "Богота"
+
+msgid "qtn_clk_city_comoros_moroni"
+msgstr "Морони"
+
+msgid "qtn_clk_city_cook_islands_rarotonga"
+msgstr "о-в Раротонга"
+
+msgid "qtn_clk_city_costar_sanjose"
+msgstr "Сан Хосе"
+
+msgid "qtn_clk_city_cotedlvoire_abidjan"
+msgstr "Абиджан"
+
+msgid "qtn_clk_city_croatia_zagreb"
+msgstr "Загреб"
+
+msgid "qtn_clk_city_cuba_havanna"
+msgstr "Хавана"
+
+msgid "qtn_clk_city_curacao_willemstad"
+msgstr "Вилемстад"
+
+msgid "qtn_clk_city_cyprus_nicosia"
+msgstr "Никозия"
+
+msgid "qtn_clk_city_czeh_prague"
+msgstr "Прага"
+
+msgid "qtn_clk_city_den_copenhag"
+msgstr "Копенхаген"
+
+msgid "qtn_clk_city_djibouti_djibouti"
+msgstr "Джибути"
+
+msgid "qtn_clk_city_dominica_roseau"
+msgstr "Розо"
+
+msgid "qtn_clk_city_dominicareb_santod"
+msgstr "Санто Доминго"
+
+msgid "qtn_clk_city_drc_kinshasa"
+msgstr "Киншаса"
+
+msgid "qtn_clk_city_drc_lubumbashi"
+msgstr "Лубумбаши"
+
+msgid "qtn_clk_city_east_timor_dili"
+msgstr "Дили"
+
+msgid "qtn_clk_city_easter_island_mataveri"
+msgstr "Ханга Роа"
+
+msgid "qtn_clk_city_ecuad_quito"
+msgstr "Кито"
+
+msgid "qtn_clk_city_egypt_cairo"
+msgstr "Кайро"
+
+msgid "qtn_clk_city_elsalva_sansalva"
+msgstr "Сан Салвадор"
+
+msgid "qtn_clk_city_eq_guinea_malabo"
+msgstr "Малабо"
+
+msgid "qtn_clk_city_eritrea_asmara"
+msgstr "Асмара"
+
+msgid "qtn_clk_city_est_tallinn"
+msgstr "Талин"
+
+msgid "qtn_clk_city_ethiopia_addis_ababa"
+msgstr "Адис Абеба"
+
+msgid "qtn_clk_city_falkland_stanley"
+msgstr "Стенли"
+
+msgid "qtn_clk_city_faroe_islands_torshavn"
+msgstr "Торсхавен"
+
+msgid "qtn_clk_city_fiji_suva"
+msgstr "Сува"
+
+msgid "qtn_clk_city_fin_hki"
+msgstr "Хелзинки"
+
+msgid "qtn_clk_city_fra_paris"
+msgstr "Париж"
+
+msgid "qtn_clk_city_french_guiana_cayenne"
+msgstr "Кайен"
+
+msgid "qtn_clk_city_french_pol_gambier_islands"
+msgstr "о-ви Гамбир"
+
+msgid "qtn_clk_city_gabon_libreville"
+msgstr "Либървил"
+
+msgid "qtn_clk_city_galapagos_islands_galapagos"
+msgstr "Галапагоски о-ви"
+
+msgid "qtn_clk_city_gambia_banjul"
+msgstr "Банджул"
+
+msgid "qtn_clk_city_georgia_tbilisi"
+msgstr "Тбилиси"
+
+msgid "qtn_clk_city_germ_berlin"
+msgstr "Берлин"
+
+msgid "qtn_clk_city_ghana_accra"
+msgstr "Акра"
+
+msgid "qtn_clk_city_gibraltar_gibraltar"
+msgstr "Гибралтар"
+
+msgid "qtn_clk_city_greece_athens"
+msgstr "Атина"
+
+msgid "qtn_clk_city_greenl_danmarkshavn"
+msgstr "Денмаркшавн"
+
+msgid "qtn_clk_city_greenl_nuuk"
+msgstr "Нуук"
+
+msgid "qtn_clk_city_greenl_scoresbysund"
+msgstr "Скорсбизунд"
+
+msgid "qtn_clk_city_greenl_thule"
+msgstr "Тюл"
+
+msgid "qtn_clk_city_grenada_saint_georges"
+msgstr "Сейнт Джорджис"
+
+msgid "qtn_clk_city_guadeloupe_pointe_a_pitre"
+msgstr "Бас-Тер"
+
+msgid "qtn_clk_city_guam_agana"
+msgstr "Хагатна"
+
+msgid "qtn_clk_city_guatmal_guatemala"
+msgstr "Гватемала"
+
+msgid "qtn_clk_city_guinea_bissau_bissau"
+msgstr "Бисау"
+
+msgid "qtn_clk_city_guinea_conakry"
+msgstr "Конакри"
+
+msgid "qtn_clk_city_guy_georgetown"
+msgstr "Джорджтаун"
+
+msgid "qtn_clk_city_haiti_port_au_prince"
+msgstr "Порт-о-Пренс"
+
+msgid "qtn_clk_city_hk_hong"
+msgstr "Хон Конг"
+
+msgid "qtn_clk_city_honduras_tegucigalpa"
+msgstr "Тегусигалпа"
+
+msgid "qtn_clk_city_hung_budapest"
+msgstr "Будапеща"
+
+msgid "qtn_clk_city_iceland_reykjavik"
+msgstr "Рейкявик"
+
+msgid "qtn_clk_city_india_calcut"
+msgstr "Калкута"
+
+msgid "qtn_clk_city_india_chennai"
+msgstr "Мадрас"
+
+msgid "qtn_clk_city_india_mumbai"
+msgstr "Мумбай"
+
+msgid "qtn_clk_city_india_newdel"
+msgstr "Делхи"
+
+msgid "qtn_clk_city_indon_jakarta"
+msgstr "Джакарта"
+
+msgid "qtn_clk_city_indon_jayapura"
+msgstr "Джаяпур"
+
+msgid "qtn_clk_city_indon_makassar"
+msgstr "Макасар"
+
+msgid "qtn_clk_city_iran_tehran"
+msgstr "Техеран"
+
+msgid "qtn_clk_city_iraq_baghdad"
+msgstr "Багдад"
+
+msgid "qtn_clk_city_ireland_belfast"
+msgstr "Белфаст"
+
+msgid "qtn_clk_city_ireland_dubli"
+msgstr "Дъблин"
+
+msgid "qtn_clk_city_israel_jerusalem"
+msgstr "Йерусалим"
+
+msgid "qtn_clk_city_israel_telaviv"
+msgstr "Тел Авив"
+
+msgid "qtn_clk_city_italy_rome"
+msgstr "Рим"
+
+msgid "qtn_clk_city_jamaica_kings"
+msgstr "Кингстън"
+
+msgid "qtn_clk_city_jordan_amman"
+msgstr "Аман"
+
+msgid "qtn_clk_city_jp_osaka"
+msgstr "Осака"
+
+msgid "qtn_clk_city_jp_sapporo"
+msgstr "Сапоро"
+
+msgid "qtn_clk_city_jp_tokyo"
+msgstr "Токио"
+
+msgid "qtn_clk_city_kaz_aqtau"
+msgstr "Шевченко"
+
+msgid "qtn_clk_city_kaz_astana"
+msgstr "Атана"
+
+msgid "qtn_clk_city_kenya_nairob"
+msgstr "Найроби"
+
+msgid "qtn_clk_city_kerguelen_port_aux_francais"
+msgstr "Порт-о-Франс"
+
+msgid "qtn_clk_city_kiribati_tarawa"
+msgstr "Тарава"
+
+msgid "qtn_clk_city_kuwait_kuwait"
+msgstr "Кувейт"
+
+msgid "qtn_clk_city_kyrgyzstan_bishkek"
+msgstr "Бишкек"
+
+msgid "qtn_clk_city_laos_vientiane"
+msgstr "Виентнян"
+
+msgid "qtn_clk_city_latvia_riga"
+msgstr "Рига"
+
+msgid "qtn_clk_city_lebanon_beirut"
+msgstr "Бейрут"
+
+msgid "qtn_clk_city_lesotho_maseru"
+msgstr "Масеру"
+
+msgid "qtn_clk_city_liber_monorov"
+msgstr "Монровия"
+
+msgid "qtn_clk_city_libya_tripoli"
+msgstr "Триполи"
+
+msgid "qtn_clk_city_liechtenstein_vaduz"
+msgstr "Вадуц"
+
+msgid "qtn_clk_city_lith_vilnius"
+msgstr "Вилнюс"
+
+msgid "qtn_clk_city_luxembourg_luxembourg"
+msgstr "Люксембург"
+
+msgid "qtn_clk_city_macau"
+msgstr "Макао"
+
+msgid "qtn_clk_city_madagascar_antananarivo"
+msgstr "Антананариво"
+
+msgid "qtn_clk_city_madeira_funchal"
+msgstr "Фуншал"
+
+msgid "qtn_clk_city_makedo_skopje"
+msgstr "Скопие"
+
+msgid "qtn_clk_city_malawi_lilongwe"
+msgstr "Лилонгве"
+
+msgid "qtn_clk_city_maldives_male"
+msgstr "Мале"
+
+msgid "qtn_clk_city_male_kualalump"
+msgstr "Куала Лумпур"
+
+msgid "qtn_clk_city_mali_bamako"
+msgstr "Бамако"
+
+msgid "qtn_clk_city_malta_valletta"
+msgstr "Валета"
+
+msgid "qtn_clk_city_marq_island_taiohae"
+msgstr "Тайохае"
+
+msgid "qtn_clk_city_mars_islands_majuro"
+msgstr "о-в Маджуро"
+
+msgid "qtn_clk_city_martinique_fort_de_franc"
+msgstr "Форт-дьо-Франс"
+
+msgid "qtn_clk_city_mauritania_nouakchott"
+msgstr "Нуакшот"
+
+msgid "qtn_clk_city_mauritius_port_louis"
+msgstr "Порт Луис"
+
+msgid "qtn_clk_city_mayotte_mamoudzou"
+msgstr "Мамудзу"
+
+msgid "qtn_clk_city_mexico_chihua"
+msgstr "Чихуахуа"
+
+msgid "qtn_clk_city_mexico_mexicoc"
+msgstr "Мексико сити"
+
+msgid "qtn_clk_city_mexico_sonora"
+msgstr "Сонора"
+
+msgid "qtn_clk_city_mexico_tijuana"
+msgstr "Тихуана"
+
+msgid "qtn_clk_city_micronesia_colonia"
+msgstr "Колония"
+
+msgid "qtn_clk_city_micronesia_ponape"
+msgstr "о-в Понапе"
+
+msgid "qtn_clk_city_moldova_kishinev"
+msgstr "Кишинев"
+
+msgid "qtn_clk_city_mona_monaco"
+msgstr "Монако"
+
+msgid "qtn_clk_city_mongolia_choibalsan"
+msgstr "Чойбалсан"
+
+msgid "qtn_clk_city_mongolia_hovd"
+msgstr "Кобдо"
+
+msgid "qtn_clk_city_mongolia_ulan"
+msgstr "Улан Батор"
+
+msgid "qtn_clk_city_montenegro_podgorica"
+msgstr "Подгорица"
+
+msgid "qtn_clk_city_montserrat_olveston"
+msgstr "Брейд Естейт"
+
+msgid "qtn_clk_city_moroc_casabl"
+msgstr "Казабланка"
+
+msgid "qtn_clk_city_moroc_rabat"
+msgstr "Рабат"
+
+msgid "qtn_clk_city_mozambique_maputo"
+msgstr "Мапуту"
+
+msgid "qtn_clk_city_myanmar_rango"
+msgstr "Янгон"
+
+msgid "qtn_clk_city_n_mariana_i_saipan"
+msgstr "о-в Сайпан"
+
+msgid "qtn_clk_city_namibia_windhoek"
+msgstr "Уиндхук"
+
+msgid "qtn_clk_city_nauru_makwa"
+msgstr "област Ярен"
+
+msgid "qtn_clk_city_nepal_kathma"
+msgstr "Катманду"
+
+msgid "qtn_clk_city_neth_amsterdam"
+msgstr "Амстердам"
+
+msgid "qtn_clk_city_new_caledonia_noumea"
+msgstr "Нумея"
+
+msgid "qtn_clk_city_newz_auckland"
+msgstr "Оукланд"
+
+msgid "qtn_clk_city_newz_chatham"
+msgstr "о-ви Чатъм"
+
+msgid "qtn_clk_city_nicarag_managua"
+msgstr "Манагуа"
+
+msgid "qtn_clk_city_niger_niamey"
+msgstr "Неамей"
+
+msgid "qtn_clk_city_nigeria_abuja"
+msgstr "Абуджа"
+
+msgid "qtn_clk_city_niue_alofi"
+msgstr "Алофи"
+
+msgid "qtn_clk_city_norfolk_kingston"
+msgstr "Кингстън"
+
+msgid "qtn_clk_city_north_korea_pyongyang"
+msgstr "Пхенян"
+
+msgid "qtn_clk_city_norw_oslo"
+msgstr "Осло"
+
+msgid "qtn_clk_city_nzealand_welling"
+msgstr "Уелингтън"
+
+msgid "qtn_clk_city_oman_muscat"
+msgstr "Маскат"
+
+msgid "qtn_clk_city_pakist_islama"
+msgstr "Исламабад"
+
+msgid "qtn_clk_city_pakistan_karac"
+msgstr "Карачи"
+
+msgid "qtn_clk_city_palau_koror"
+msgstr "Мелекеок"
+
+msgid "qtn_clk_city_panama_panamac"
+msgstr "Панама Сити"
+
+msgid "qtn_clk_city_paraqu_asunc"
+msgstr "Асунсион"
+
+msgid "qtn_clk_city_peru_lima"
+msgstr "Лима"
+
+msgid "qtn_clk_city_philippines_manila"
+msgstr "Манила"
+
+msgid "qtn_clk_city_phoenix_islands_rawaki"
+msgstr "Кантон"
+
+msgid "qtn_clk_city_pitcairn_adamstown"
+msgstr "Адамстаун"
+
+msgid "qtn_clk_city_png_portmoresby"
+msgstr "Порт Морсби"
+
+msgid "qtn_clk_city_pol_warsaw"
+msgstr "Варшава"
+
+msgid "qtn_clk_city_portu_lisbon"
+msgstr "Лисабон"
+
+msgid "qtn_clk_city_puertor_sanjuan"
+msgstr "Сан Хуан"
+
+msgid "qtn_clk_city_qatar_doha"
+msgstr "Доха"
+
+msgid "qtn_clk_city_r_congo_brazzaville"
+msgstr "Бразавил"
+
+msgid "qtn_clk_city_reunion_saint_denis"
+msgstr "Сен Дьони"
+
+msgid "qtn_clk_city_romania_buch"
+msgstr "Букурещ"
+
+msgid "qtn_clk_city_rus_anadyr"
+msgstr "Анадир"
+
+msgid "qtn_clk_city_rus_irkutsk"
+msgstr "Иркутск"
+
+msgid "qtn_clk_city_rus_kaliningrad"
+msgstr "Калининград"
+
+msgid "qtn_clk_city_rus_krasnoyarsk"
+msgstr "Красноярск"
+
+msgid "qtn_clk_city_rus_magadan"
+msgstr "Магадан"
+
+msgid "qtn_clk_city_rus_moscow"
+msgstr "Москва"
+
+msgid "qtn_clk_city_rus_novosib"
+msgstr "Новосибирск"
+
+msgid "qtn_clk_city_rus_samara"
+msgstr "Самара"
+
+msgid "qtn_clk_city_rus_stpeters"
+msgstr "Санкт Петербург"
+
+msgid "qtn_clk_city_rus_vladivost"
+msgstr "Владивосток"
+
+msgid "qtn_clk_city_rus_yakutsk"
+msgstr "Якутск"
+
+msgid "qtn_clk_city_rus_yekaterinburg"
+msgstr "Екатеринбург"
+
+msgid "qtn_clk_city_rwanda_kigali"
+msgstr "Кигали"
+
+msgid "qtn_clk_city_safric_johburg"
+msgstr "Йоханесбург"
+
+msgid "qtn_clk_city_safric_pretoria"
+msgstr "Претория"
+
+msgid "qtn_clk_city_samoa_apia"
+msgstr "о-в Апия"
+
+msgid "qtn_clk_city_san_marino"
+msgstr "Сан Марино"
+
+msgid "qtn_clk_city_sao_tome_principe_sao_tome"
+msgstr "Сао Томе"
+
+msgid "qtn_clk_city_saudiarab_riya"
+msgstr "Рияд"
+
+msgid "qtn_clk_city_senegal_dakar"
+msgstr "Дакар"
+
+msgid "qtn_clk_city_serb_belgrade"
+msgstr "Белград"
+
+msgid "qtn_clk_city_seychelles_victoria"
+msgstr "Виктория"
+
+msgid "qtn_clk_city_sierra_leone_freetown"
+msgstr "Фрийтаун"
+
+msgid "qtn_clk_city_singp_singapore"
+msgstr "Сингапур"
+
+msgid "qtn_clk_city_skorea_seoul"
+msgstr "Сеул"
+
+msgid "qtn_clk_city_slova_bratislava"
+msgstr "Братислава"
+
+msgid "qtn_clk_city_slove_ljubljana"
+msgstr "Любляна"
+
+msgid "qtn_clk_city_solomis_honiar"
+msgstr "Хониара"
+
+msgid "qtn_clk_city_somalia_mogadishu"
+msgstr "Могадишу"
+
+msgid "qtn_clk_city_south_georgia_grytviken"
+msgstr "Грютвикен"
+
+msgid "qtn_clk_city_spain_madrid"
+msgstr "Мадрид"
+
+msgid "qtn_clk_city_srilan_colombo"
+msgstr "Коломбо"
+
+msgid "qtn_clk_city_st_helena_jamestown"
+msgstr "Джеймстаун"
+
+msgid "qtn_clk_city_st_kitts_nevis_basseterre"
+msgstr "Бастер"
+
+msgid "qtn_clk_city_st_lucia_castries"
+msgstr "Кастрийс"
+
+msgid "qtn_clk_city_st_pierre_miquelon_pierre"
+msgstr "Сен-Пиер"
+
+msgid "qtn_clk_city_st_vincent_kingstown"
+msgstr "Кингстаун"
+
+msgid "qtn_clk_city_sudan_khartoum"
+msgstr "Хартум"
+
+msgid "qtn_clk_city_suriname_paramaribo"
+msgstr "Парамарибо"
+
+msgid "qtn_clk_city_swaziland_mbabane"
+msgstr "Мбабане"
+
+msgid "qtn_clk_city_swe_stockholm"
+msgstr "Стокхолм"
+
+msgid "qtn_clk_city_switz_bern"
+msgstr "Берн"
+
+msgid "qtn_clk_city_switzerland_zurich"
+msgstr "Цюрих"
+
+msgid "qtn_clk_city_syria_damascus"
+msgstr "Дамаск"
+
+msgid "qtn_clk_city_tahiti_papeete"
+msgstr "Папеете"
+
+msgid "qtn_clk_city_taiw_taipei"
+msgstr "Тайпей"
+
+msgid "qtn_clk_city_tajikistan_dushanbe"
+msgstr "Душанбе"
+
+msgid "qtn_clk_city_tanzania_dar_es_salaam"
+msgstr "Дар ес Салаам"
+
+msgid "qtn_clk_city_thai_bangkok"
+msgstr "Банкок"
+
+msgid "qtn_clk_city_togo_lome"
+msgstr "Ломе"
+
+msgid "qtn_clk_city_tokelau_fakaofo"
+msgstr "о-в Факаофо"
+
+msgid "qtn_clk_city_tonga_nuku"
+msgstr "Нукуалофа"
+
+msgid "qtn_clk_city_trinidad_portofspain"
+msgstr "Порт ъф Спейн"
+
+msgid "qtn_clk_city_tunisia_tunis"
+msgstr "Тунис"
+
+msgid "qtn_clk_city_turk_ankara"
+msgstr "Анкара"
+
+msgid "qtn_clk_city_turk_istanbul"
+msgstr "Истанбул"
+
+msgid "qtn_clk_city_turkmenistan_ashgabat"
+msgstr "Ашхабад"
+
+msgid "qtn_clk_city_turks_caicos_kingston"
+msgstr "Кокбърн таун"
+
+msgid "qtn_clk_city_tuvalu_funafuti"
+msgstr "Фунафути"
+
+msgid "qtn_clk_city_uganda_kampala"
+msgstr "Кампала"
+
+msgid "qtn_clk_city_uk_cardiff"
+msgstr "Кардиф"
+
+msgid "qtn_clk_city_uk_edingbu"
+msgstr "Единбург"
+
+msgid "qtn_clk_city_uk_london"
+msgstr "Лондон"
+
+msgid "qtn_clk_city_ukraine_kiev"
+msgstr "Киев"
+
+msgid "qtn_clk_city_urugua_montev"
+msgstr "Монтевидео"
+
+msgid "qtn_clk_city_usa_adak"
+msgstr "Адак, Аляска"
+
+msgid "qtn_clk_city_usa_albuquer"
+msgstr "Албакърки, Ню Мексико"
+
+msgid "qtn_clk_city_usa_atlanta"
+msgstr "Атланта, Джорджия"
+
+msgid "qtn_clk_city_usa_augusta"
+msgstr "Огъста, Мейн"
+
+msgid "qtn_clk_city_usa_baltimore"
+msgstr "Балтимор, Мериленд"
+
+msgid "qtn_clk_city_usa_billings"
+msgstr "Билингс, Монтана"
+
+msgid "qtn_clk_city_usa_birmingham"
+msgstr "Бирмингам, Алабама"
+
+msgid "qtn_clk_city_usa_bismarck"
+msgstr "Бисмарк, Северна Дакота"
+
+msgid "qtn_clk_city_usa_boise"
+msgstr "Бойсе, Айдахо"
+
+msgid "qtn_clk_city_usa_boston"
+msgstr "Бостън, Масачузец"
+
+msgid "qtn_clk_city_usa_charleston"
+msgstr "Чарлстън, Западна Вирджиния"
+
+msgid "qtn_clk_city_usa_charlotte"
+msgstr "Шарлът, Северна Каролина"
+
+msgid "qtn_clk_city_usa_charlotte_amalie"
+msgstr "Шарлот Амали, Американски Вирджински острови"
+
+msgid "qtn_clk_city_usa_cheyenne"
+msgstr "Шейен, Уайоминг"
+
+msgid "qtn_clk_city_usa_chicago"
+msgstr "Чикаго, Илинойс"
+
+msgid "qtn_clk_city_usa_columbia"
+msgstr "Колумбия, Южна Каролина"
+
+msgid "qtn_clk_city_usa_columbus"
+msgstr "Колумбус, Охайо"
+
+msgid "qtn_clk_city_usa_concord"
+msgstr "Конкорд, Ню Хемпшир"
+
+msgid "qtn_clk_city_usa_dallas"
+msgstr "Далас, Тексас"
+
+msgid "qtn_clk_city_usa_denver"
+msgstr "Денвър, Колорадо"
+
+msgid "qtn_clk_city_usa_desmoines"
+msgstr "Де Мойн, Айова"
+
+msgid "qtn_clk_city_usa_detroit"
+msgstr "Детройт, Мичиган"
+
+msgid "qtn_clk_city_usa_dover"
+msgstr "Доувър, Далауеър"
+
+msgid "qtn_clk_city_usa_evansville"
+msgstr "Евансвилл, Индиана"
+
+msgid "qtn_clk_city_usa_gary"
+msgstr "Гери, Индиана"
+
+msgid "qtn_clk_city_usa_guam"
+msgstr "Гуам"
+
+msgid "qtn_clk_city_usa_hatford"
+msgstr "Хартфорд, Кънектикът"
+
+msgid "qtn_clk_city_usa_hawaii"
+msgstr "Хонолулу, Хавай"
+
+msgid "qtn_clk_city_usa_indiana"
+msgstr "Индианаполис, Индиана"
+
+msgid "qtn_clk_city_usa_jackson"
+msgstr "Джаксън, Мисисипи"
+
+msgid "qtn_clk_city_usa_juneau"
+msgstr "Джуно, Аляска"
+
+msgid "qtn_clk_city_usa_lasvega"
+msgstr "Лас Вегас, Невада"
+
+msgid "qtn_clk_city_usa_losange"
+msgstr "Лос Анжелис, Калифорния"
+
+msgid "qtn_clk_city_usa_louisville"
+msgstr "Луизвил, Кентъки"
+
+msgid "qtn_clk_city_usa_memphis"
+msgstr "Мемфис, Тенеси"
+
+msgid "qtn_clk_city_usa_miami"
+msgstr "Маями, Флорида"
+
+msgid "qtn_clk_city_usa_milwaukee"
+msgstr "Милуоки, Уисконсин"
+
+msgid "qtn_clk_city_usa_minneap"
+msgstr "Минеаполис, Минесота"
+
+msgid "qtn_clk_city_usa_montpelier"
+msgstr "Монтпелие, Вермонт"
+
+msgid "qtn_clk_city_usa_neworlea"
+msgstr "Ню Ореанс, Лузиана"
+
+msgid "qtn_clk_city_usa_ny"
+msgstr "Ню Йорк Сити, Ню Йорк"
+
+msgid "qtn_clk_city_usa_oklahoma"
+msgstr "Оклахома Сити, Оклахома"
+
+msgid "qtn_clk_city_usa_omaha"
+msgstr "Омаха, Небраска"
+
+msgid "qtn_clk_city_usa_pago_pago"
+msgstr "Паго Паго, Американска Самоа"
+
+msgid "qtn_clk_city_usa_pensacola"
+msgstr "Пенсакола, Флорида"
+
+msgid "qtn_clk_city_usa_philadelp"
+msgstr "Филаделфия, Пенсилвания"
+
+msgid "qtn_clk_city_usa_phoenix"
+msgstr "Финикс, Аризона"
+
+msgid "qtn_clk_city_usa_portland"
+msgstr "Портланд, Орегон"
+
+msgid "qtn_clk_city_usa_providence"
+msgstr "Провидънс, Род Айлънд"
+
+msgid "qtn_clk_city_usa_richmond"
+msgstr "Ричмънд, Вирджиния"
+
+msgid "qtn_clk_city_usa_saipan"
+msgstr "о-в Сайпан, Северни Мариански острови"
+
+msgid "qtn_clk_city_usa_saltlakec"
+msgstr "Солт Лейк Сити, Юта"
+
+msgid "qtn_clk_city_usa_sanfranci"
+msgstr "Сан Франсиско, Калифорния"
+
+msgid "qtn_clk_city_usa_seattle"
+msgstr "Сиатъл, Вашингтон"
+
+msgid "qtn_clk_city_usa_sioux_falls"
+msgstr "Су-Фолс, Северна Дакота"
+
+msgid "qtn_clk_city_usa_stluis"
+msgstr "Сейнт Луис, Мисури"
+
+msgid "qtn_clk_city_usa_washington"
+msgstr "Вашингтон, окръг Колумбия"
+
+msgid "qtn_clk_city_usa_wichita"
+msgstr "Уичита, Канзас"
+
+msgid "qtn_clk_city_uzbe_tashkent"
+msgstr "Ташкент"
+
+msgid "qtn_clk_city_vanuatu_port_vila"
+msgstr "Порт Вила"
+
+msgid "qtn_clk_city_vatican_vatican_city"
+msgstr "Ватикан"
+
+msgid "qtn_clk_city_vene_caracas"
+msgstr "Каракас"
+
+msgid "qtn_clk_city_viet_hanoi"
+msgstr "Ханой"
+
+msgid "qtn_clk_city_wallis_futuna_wallis"
+msgstr "о-ви Уолис"
+
+msgid "qtn_clk_city_west_sahara_el_aaiun"
+msgstr "Laayoune"
+
+msgid "qtn_clk_city_yemen_sana"
+msgstr "Шаная"
+
+msgid "qtn_clk_city_zambia_lusaka"
+msgstr "Лусака"
+
+msgid "qtn_clk_city_zimb_harare"
+msgstr "Хараре"
