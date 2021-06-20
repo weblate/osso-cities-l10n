@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.10.15 12:46+0300\n"
-"PO-Revision-Date: 2021-06-20 14:42+0000\n"
+"PO-Revision-Date: 2021-06-21 15:32+0000\n"
 "Last-Translator: THANOS SIOURDAKIS <siourdakisthanos@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-cities-l10n/el/>\n"
@@ -21,10 +21,10 @@ msgid "qtn_clk_city_ab_saint_johns"
 msgstr "Saint John's"
 
 msgid "qtn_clk_city_abu_dhabi"
-msgstr "Abu Dhabi"
+msgstr "Άμπου Ντάμπι"
 
 msgid "qtn_clk_city_afga_kabul"
-msgstr "Kabul"
+msgstr "Καμπούλ"
 
 msgid "qtn_clk_city_albania_tirane"
 msgstr "Tirana"
@@ -42,7 +42,7 @@ msgid "qtn_clk_city_anguilla_anguilla"
 msgstr "The Valley"
 
 msgid "qtn_clk_city_argen_buenos"
-msgstr "Buenos Aires"
+msgstr "Μπουένος Άιρες"
 
 msgid "qtn_clk_city_armenia_yerevan"
 msgstr "Yerevan"
@@ -72,10 +72,10 @@ msgid "qtn_clk_city_aus_lord_howe_island"
 msgstr "Lord Howe Island"
 
 msgid "qtn_clk_city_aus_melbourne"
-msgstr "Melbourne"
+msgstr "Μελβούρνη"
 
 msgid "qtn_clk_city_aus_perth"
-msgstr "Perth"
+msgstr "Περθ"
 
 msgid "qtn_clk_city_aus_sydney"
 msgstr "Sydney"
@@ -102,10 +102,10 @@ msgid "qtn_clk_city_barbados_bridgetown"
 msgstr "Bridgetown"
 
 msgid "qtn_clk_city_belarus_minsk"
-msgstr "Minsk"
+msgstr "Μινσκ"
 
 msgid "qtn_clk_city_belg_brussels"
-msgstr "Brussels"
+msgstr "Βρυξέλλες"
 
 msgid "qtn_clk_city_belize_belmopan"
 msgstr "Belmopan"
@@ -204,7 +204,7 @@ msgid "qtn_clk_city_bra_recife"
 msgstr "Recife"
 
 msgid "qtn_clk_city_bra_riojan"
-msgstr "Rio de Janeiro"
+msgstr "Ρίο ντε Τζανέιρο"
 
 msgid "qtn_clk_city_bra_salvador"
 msgstr "Salvador"
@@ -273,7 +273,7 @@ msgid "qtn_clk_city_canada_goose_bay"
 msgstr "Goose Bay"
 
 msgid "qtn_clk_city_canada_halifax"
-msgstr "Halifax"
+msgstr "Χάλιφαξ"
 
 msgid "qtn_clk_city_canada_iqaluit"
 msgstr "Iqaluit"
@@ -282,7 +282,7 @@ msgid "qtn_clk_city_canada_lloydminster"
 msgstr "Lloydminster"
 
 msgid "qtn_clk_city_canada_montreal"
-msgstr "Montreal"
+msgstr "Μόντρεαλ"
 
 msgid "qtn_clk_city_canada_ottawa"
 msgstr "Ottawa"
@@ -333,13 +333,13 @@ msgid "qtn_clk_city_chile_santiago"
 msgstr "Santiago"
 
 msgid "qtn_clk_city_china_beijing"
-msgstr "Beijing"
+msgstr "Πεκίνο"
 
 msgid "qtn_clk_city_christmas_island_christmas"
 msgstr "The Settlement"
 
 msgid "qtn_clk_city_ci_kiritimati"
-msgstr "London"
+msgstr "Λονδίνο"
 
 msgid "qtn_clk_city_cocos_islands_cocos"
 msgstr "West Island"
@@ -375,7 +375,7 @@ msgid "qtn_clk_city_czeh_prague"
 msgstr "Prague"
 
 msgid "qtn_clk_city_den_copenhag"
-msgstr "Copenhagen"
+msgstr "Κοπεγχάγη"
 
 msgid "qtn_clk_city_djibouti_djibouti"
 msgstr "Djibouti"
@@ -402,7 +402,7 @@ msgid "qtn_clk_city_ecuad_quito"
 msgstr "Quito"
 
 msgid "qtn_clk_city_egypt_cairo"
-msgstr "Cairo"
+msgstr "Κάιρο"
 
 msgid "qtn_clk_city_elsalva_sansalva"
 msgstr "San Salvador"
@@ -432,7 +432,7 @@ msgid "qtn_clk_city_fin_hki"
 msgstr "Helsinki"
 
 msgid "qtn_clk_city_fra_paris"
-msgstr "Paris"
+msgstr "Παρίσι"
 
 msgid "qtn_clk_city_french_guiana_cayenne"
 msgstr "Cayenne"
@@ -453,13 +453,13 @@ msgid "qtn_clk_city_georgia_tbilisi"
 msgstr "Tbilisi"
 
 msgid "qtn_clk_city_germ_berlin"
-msgstr "Berlin"
+msgstr "Βερολίνο"
 
 msgid "qtn_clk_city_ghana_accra"
 msgstr "Accra"
 
 msgid "qtn_clk_city_gibraltar_gibraltar"
-msgstr "Gibraltar"
+msgstr "Γιβραλτάρ"
 
 msgid "qtn_clk_city_greece_athens"
 msgstr "Αθήνα"
@@ -486,7 +486,7 @@ msgid "qtn_clk_city_guam_agana"
 msgstr "Hagatna"
 
 msgid "qtn_clk_city_guatmal_guatemala"
-msgstr "Guatemala"
+msgstr "Γουατεμάλα"
 
 msgid "qtn_clk_city_guinea_bissau_bissau"
 msgstr "Bissau"
@@ -501,16 +501,16 @@ msgid "qtn_clk_city_haiti_port_au_prince"
 msgstr "Port-au-Prince"
 
 msgid "qtn_clk_city_hk_hong"
-msgstr "Hong Kong"
+msgstr "Χονγκ Κονγκ"
 
 msgid "qtn_clk_city_honduras_tegucigalpa"
 msgstr "Tegucigalpa"
 
 msgid "qtn_clk_city_hung_budapest"
-msgstr "Budapest"
+msgstr "Βουδαπέστη"
 
 msgid "qtn_clk_city_iceland_reykjavik"
-msgstr "Reykjavík"
+msgstr "Ρέυκιαβικ"
 
 msgid "qtn_clk_city_india_calcut"
 msgstr "Καλκούτα"
@@ -537,7 +537,7 @@ msgid "qtn_clk_city_iran_tehran"
 msgstr "Tehran"
 
 msgid "qtn_clk_city_iraq_baghdad"
-msgstr "Baghdad"
+msgstr "Βαγδάτη"
 
 msgid "qtn_clk_city_ireland_belfast"
 msgstr "Belfast"
@@ -546,13 +546,13 @@ msgid "qtn_clk_city_ireland_dubli"
 msgstr "Dublin"
 
 msgid "qtn_clk_city_israel_jerusalem"
-msgstr "Jerusalem"
+msgstr "Ιερουσαλήμ"
 
 msgid "qtn_clk_city_israel_telaviv"
 msgstr "Tel Aviv"
 
 msgid "qtn_clk_city_italy_rome"
-msgstr "Ρόμη"
+msgstr "Ρώμη"
 
 msgid "qtn_clk_city_jamaica_kings"
 msgstr "Kingston"
@@ -636,7 +636,7 @@ msgid "qtn_clk_city_maldives_male"
 msgstr "Male"
 
 msgid "qtn_clk_city_male_kualalump"
-msgstr "Kuala Lumpur"
+msgstr "Κουάλα Λουμπούρ"
 
 msgid "qtn_clk_city_mali_bamako"
 msgstr "Bamako"
@@ -666,7 +666,7 @@ msgid "qtn_clk_city_mexico_chihua"
 msgstr "Chihuahua"
 
 msgid "qtn_clk_city_mexico_mexicoc"
-msgstr "Mexico City"
+msgstr "Πόλη του Μεξικού"
 
 msgid "qtn_clk_city_mexico_sonora"
 msgstr "Sonora"
@@ -732,7 +732,7 @@ msgid "qtn_clk_city_new_caledonia_noumea"
 msgstr "Noumea"
 
 msgid "qtn_clk_city_newz_auckland"
-msgstr "Auckland"
+msgstr "Ώκλαντ"
 
 msgid "qtn_clk_city_newz_chatham"
 msgstr "Chatham"
@@ -753,10 +753,10 @@ msgid "qtn_clk_city_norfolk_kingston"
 msgstr "Kingston"
 
 msgid "qtn_clk_city_north_korea_pyongyang"
-msgstr "Pyongyang"
+msgstr "Πιονγιάνγκ"
 
 msgid "qtn_clk_city_norw_oslo"
-msgstr "Oslo"
+msgstr "Όσλο"
 
 msgid "qtn_clk_city_nzealand_welling"
 msgstr "Wellington"
@@ -813,7 +813,7 @@ msgid "qtn_clk_city_reunion_saint_denis"
 msgstr "Saint-Denis"
 
 msgid "qtn_clk_city_romania_buch"
-msgstr "Bucharest"
+msgstr "Βουκουρέστι"
 
 msgid "qtn_clk_city_rus_anadyr"
 msgstr "Anadyr"
@@ -831,7 +831,7 @@ msgid "qtn_clk_city_rus_magadan"
 msgstr "Magadan"
 
 msgid "qtn_clk_city_rus_moscow"
-msgstr "Moscow"
+msgstr "Μόσχα"
 
 msgid "qtn_clk_city_rus_novosib"
 msgstr "Novosibirsk"
@@ -876,7 +876,7 @@ msgid "qtn_clk_city_senegal_dakar"
 msgstr "Dakar"
 
 msgid "qtn_clk_city_serb_belgrade"
-msgstr "Belgrade"
+msgstr "Βελιγράδι"
 
 msgid "qtn_clk_city_seychelles_victoria"
 msgstr "Victoria"
@@ -906,7 +906,7 @@ msgid "qtn_clk_city_south_georgia_grytviken"
 msgstr "Grytviken"
 
 msgid "qtn_clk_city_spain_madrid"
-msgstr "Madrid"
+msgstr "Μαδρίτη"
 
 msgid "qtn_clk_city_srilan_colombo"
 msgstr "Colombo"
@@ -939,7 +939,7 @@ msgid "qtn_clk_city_swe_stockholm"
 msgstr "Stockholm"
 
 msgid "qtn_clk_city_switz_bern"
-msgstr "Bern"
+msgstr "Βέρνη"
 
 msgid "qtn_clk_city_switzerland_zurich"
 msgstr "Zurich"
@@ -960,7 +960,7 @@ msgid "qtn_clk_city_tanzania_dar_es_salaam"
 msgstr "Dar es Salaam"
 
 msgid "qtn_clk_city_thai_bangkok"
-msgstr "Bangkok"
+msgstr "Μπανγκόκ"
 
 msgid "qtn_clk_city_togo_lome"
 msgstr "Lomé"
@@ -978,10 +978,10 @@ msgid "qtn_clk_city_tunisia_tunis"
 msgstr "Tunis"
 
 msgid "qtn_clk_city_turk_ankara"
-msgstr "Ankara"
+msgstr "Άγκυρα"
 
 msgid "qtn_clk_city_turk_istanbul"
-msgstr "Istanbul"
+msgstr "Κωνσταντινούπολη"
 
 msgid "qtn_clk_city_turkmenistan_ashgabat"
 msgstr "Ashgabat"
@@ -996,13 +996,13 @@ msgid "qtn_clk_city_uganda_kampala"
 msgstr "Kampala"
 
 msgid "qtn_clk_city_uk_cardiff"
-msgstr "Cardiff"
+msgstr "Κάρντιφ"
 
 msgid "qtn_clk_city_uk_edingbu"
-msgstr "Edinburgh"
+msgstr "Εδιμβούργο"
 
 msgid "qtn_clk_city_uk_london"
-msgstr "London"
+msgstr "Λονδίνο"
 
 msgid "qtn_clk_city_ukraine_kiev"
 msgstr "Kyiv"
@@ -1017,7 +1017,7 @@ msgid "qtn_clk_city_usa_albuquer"
 msgstr "Albuquerque, New Mexico"
 
 msgid "qtn_clk_city_usa_atlanta"
-msgstr "Atlanta, Georgia"
+msgstr "Ατλάντα, Τζόρτζια"
 
 msgid "qtn_clk_city_usa_augusta"
 msgstr "Augusta, Maine"
@@ -1194,7 +1194,7 @@ msgid "qtn_clk_city_vatican_vatican_city"
 msgstr "Vatican City"
 
 msgid "qtn_clk_city_vene_caracas"
-msgstr "Caracas"
+msgstr "Καράκας"
 
 msgid "qtn_clk_city_viet_hanoi"
 msgstr "Hanoi"
